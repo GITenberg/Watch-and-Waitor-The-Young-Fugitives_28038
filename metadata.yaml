@@ -1,0 +1,30 @@
+_repo: Watch-and-Waitor-The-Young-Fugitives_28038
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitive slaves -- Juvenile fiction'
+- !lcc 'PZ'
+title: Watch and Wait; or, The Young Fugitives
+url: http://www.gutenberg.org/ebooks/28038
